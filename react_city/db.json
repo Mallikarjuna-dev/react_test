@@ -1,0 +1,24 @@
+{
+  "country":[
+    {
+      "id":1,
+      "country":"India"
+    },
+    {
+      "id":1,
+      "country":"USA"
+    },
+    {
+      "id":1,
+      "country":"Australia"
+    }
+  ],
+  "city":[
+    {
+      "id":1,
+      "cityname":"Bangalore",
+      "country":"India",
+      "population":"19,00,000"
+    }
+  ]
+}
