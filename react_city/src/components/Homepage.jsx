@@ -4,7 +4,6 @@ import { ResponsiveAppBar } from "./NavBar";
 const Country = () => {
   return (
     <>
-      <ResponsiveAppBar />
       <h1>Add Country</h1>
     </>
   );
